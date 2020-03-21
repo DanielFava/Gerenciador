@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gerenciador</string>
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Fechar Menu</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!-- Itens do menu -->
+    <string name="menu_todos">Todos</string>
+    <string name="menu_presente">Presentes</string>
+    <string name="menu_ausente">Ausentes</string>
+    <string name="menu_not_Confirmed">Não Confirmado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome">Nome</string>
+    <string name="nao_confirmado">Não Confirmado</string>
+    <string name="presente">Presente</string>
+    <string name="ausente">Ausente</string>
+    <string name="salvar">Salvar</string>
+    <string name="remover_convidado">Remover Convidado</string>
+    <string name="pergunta_remover_convidado">Deseja realmente excluir o convidado?</string>
+    <string name="excluir_convidado">Excluir</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="action_ok">OK</string>
+    <string name="title_erro">Erro</string>
+    <string name="title_aviso">Aviso</string>
+    <string name="message_campos_invalidos_brancos">Há campos inválidos ou em branco!</string>
+    <string name="lbl_ok">OK</string>
+</resources>
